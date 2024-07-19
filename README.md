@@ -20,3 +20,4 @@ This program is licensed under the MIT License.
 ## Todo:
 - Add support for killing processes with name
 - Add support for killing processes with signal
+- Colorize the output

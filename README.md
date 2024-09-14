@@ -21,3 +21,4 @@ This program is licensed under the MIT License.
 - Add support for killing processes with name
 - Add support for killing processes with signal
 - Colorize the output
+- Show all Prozesses, when user doesn't run this program with a Process ID.
